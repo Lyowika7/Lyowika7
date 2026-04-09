@@ -1,44 +1,116 @@
-# 💫 About Me:
-I am @Lyowika7, Leniency Yowika  
+<h1 align="center">Hi 👋, I'm Leniency Yowika</h1>
+<h3 align="center">Full Stack Developer | Aspiring DevOps Engineer | Problem Solver</h3>
 
-FULL STACK DEVELOPER | ASPIRING DEVOPS | ENGINEER  
+<p align="center">
+  I build responsive web applications, backend systems, and user-focused digital experiences.
+</p>
 
-Open to collaborating on web development projects  
+<p align="center">
+  <a href="mailto:lyowika@gmail.com"><img src="https://img.shields.io/badge/Email-lyowika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/leniency-yowika"><img src="https://img.shields.io/badge/LinkedIn-Leniency%20Yowika-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/LEadYowika"><img src="https://img.shields.io/badge/X-@LEadYowika-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
-Interested in both frontend and backend development opportunities  
+---
 
+## 💫 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leniency-yowika) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LEadYowika) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lyowika@gmail.com) 
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+- 💻 Full Stack Developer with interest in building useful, real-world web applications  
+- 🚀 Currently growing in backend engineering and DevOps  
+- 🤝 Open to collaborating on web development projects  
+- 🌱 Actively improving my skills in scalable systems, deployment, and cloud workflows  
+- 🎯 Interested in frontend, backend, and remote developer opportunities  
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lyowika7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 🌱 Currently Learning
 
-![](https://streak-stats.demolab.com?user=Lyowika7&theme=dark&hide_border=false)
+- DevOps fundamentals
+- Cloud-based application hosting
+  
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyowika7&theme=dark&hide_border=false&layout=compact)
+## 🔥 Featured Project
 
+### Volunteer Bridge
+A platform designed to connect volunteers with meaningful opportunities, with features for project management, task assignment, notifications, and donations.
+
+**What I worked on:**
+- Backend development
+- Projects and tasks system
+- API integration
+- Frontend-backend connection
+- Deployment and debugging
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" />
+</p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Deployment & Tools
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lyowika7&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lyowika7&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyowika7&theme=radical&hide_border=true&layout=compact" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lyowika7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lyowika7&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** lyowika@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/leniency-yowika  
+- **X:** x.com/LEadYowika  
+
+---
+
+## ⚡ Personal Motto
+
+> Keep building. Keep learning. Keep showing up.
